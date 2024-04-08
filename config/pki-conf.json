@@ -1,0 +1,17 @@
+{
+  "contractHash": "0x1CbE49F033a416149212bccC9681F353d5d5F410",
+  "contractWebHash": "0x7dB8264452fF6e2C245d563D23A4B36aB244C508",
+  "nodeURL": "HTTP://127.0.0.1:2001",
+  "pswd": "gjb",
+  "keyDir": "C:\\Users\\78268\\AppData\\Local\\Ethereum\\keystore\\",
+  "accountAddr": "0xD24196422b6163D7DdB49F740DDD18945496CF33",
+  "keyFile": "UTC--2024-03-11T01-53-52.348874200Z--d24196422b6163d7ddb49f740ddd18945496cf33",
+  "privateKeyPath": "private.key",
+  "appHttpPort": 8081,
+  "restHttpPort": 8091,
+  "ethereumRpcPort": 2001,
+  "appUrlServer": "http://localhost",
+  "restUrlServer": "http://localhost",
+  "ethereumRpcUrl": "http://localhost",
+  "fileWebPath": "D:\\goProject\\src\\pki-blockchain-master\\pub"
+}
